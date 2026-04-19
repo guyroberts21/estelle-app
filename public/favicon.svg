@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Background -->
+  <rect width="32" height="32" rx="6" fill="#0f1f4d"/>
+
+  <!-- Head stud -->
+  <rect x="13.5" y="1.5" width="5" height="3.5" rx="1.5" fill="#fcd34d"/>
+
+  <!-- Head -->
+  <rect x="10" y="5" width="12" height="9.5" rx="2.5" fill="#fcd34d"/>
+
+  <!-- Eyes -->
+  <circle cx="13.8" cy="8.5" r="1.2" fill="#1e293b"/>
+  <circle cx="18.2" cy="8.5" r="1.2" fill="#1e293b"/>
+
+  <!-- Smile -->
+  <path d="M13.5 12 Q16 14 18.5 12" stroke="#1e293b" stroke-width="1.1" fill="none" stroke-linecap="round"/>
+
+  <!-- Neck connector -->
+  <rect x="14.5" y="14.5" width="3" height="1.5" fill="#fcd34d"/>
+
+  <!-- Body -->
+  <rect x="9" y="16" width="14" height="7" rx="1" fill="#4169e1"/>
+
+  <!-- Left arm -->
+  <rect x="5.5" y="16" width="3.5" height="5.5" rx="1.5" fill="#4169e1"/>
+  <!-- Left hand -->
+  <rect x="5.5" y="20.5" width="3.5" height="2.5" rx="1.2" fill="#fcd34d"/>
+
+  <!-- Right arm -->
+  <rect x="23" y="16" width="3.5" height="5.5" rx="1.5" fill="#4169e1"/>
+  <!-- Right hand -->
+  <rect x="23" y="20.5" width="3.5" height="2.5" rx="1.2" fill="#fcd34d"/>
+
+  <!-- Left leg -->
+  <rect x="9" y="23" width="5.5" height="7.5" rx="1" fill="#1a3a8f"/>
+
+  <!-- Right leg -->
+  <rect x="17.5" y="23" width="5.5" height="7.5" rx="1" fill="#1a3a8f"/>
+</svg>
